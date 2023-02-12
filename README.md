@@ -1,4 +1,4 @@
-# PROJETO APLICADO: ANÁLISE PREDITIVA E VANTAGEM COMPETITIVA
+# PROJETO APLICADO: ANÁLISE PREDITIVA E VANTAGEM COMPETITIVA - Pós Graduação BI & Data Science
 
 ### Trabalho 1 - Problema da mochila
 ------------
