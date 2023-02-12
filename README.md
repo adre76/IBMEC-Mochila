@@ -9,7 +9,7 @@
 
 **Curso:** MBA em BI & Data Science
 
-**Campus e Turno:** Barra/Noitepeso_item
+**Campus e Turno:** Barra/Noite
 ------------
 
 Considere o problema abaixo com 5 itens e uma mochila de capacidade 10:
