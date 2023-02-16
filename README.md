@@ -1,4 +1,5 @@
 ### PROJETO APLICADO: ANÁLISE PREDITIVA E VANTAGEM COMPETITIVA
+**Professor:** Sergio Monteiro
 
 ------------
 
