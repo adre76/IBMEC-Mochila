@@ -3,7 +3,7 @@
 
 ------------
 
-### Trabalho 1 - Problema da mochila
+### Trabalho 1 (30%) - Problema da mochila
 ------------
 
 **Aluno:** André Luís dos Reis Pereira   **Matrícula:** 202205179109
@@ -21,3 +21,7 @@ $$ \mbox{sujeito a:}  \\ \\ \\ \\ 5\ x_{1} + 4\ x_{2} + 3\ x_{3} + 2\ x_{4} + \ 
 $$ \ x_{i} \in ( 0,1 ), i = 1,...,5 $$
 
 Identificar, de forma otimizada, quais itens devem entrar na mochila.
+
+#### **Arquivos:**
+- mochila.ipynb: Notebook com o programa descrito acima.
+- README.md: Arquivo Markdown com a descrição do trabalho.
